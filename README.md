@@ -1,6 +1,6 @@
 # vimrc
 
-Repo hosting my personal vimrc config
+Repo hosting my personal vimrc config.
 
 I usually install the plugins available in the distro's repository, however, if not available, just git clone it.
 
